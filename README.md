@@ -7,6 +7,13 @@ I am glad that you are here. Please read further to know more.
 
 The pandemic has caused a lot of effects. Hence the information given here would be helpful.
 
+## Other Repositories 
+- <a href = "https://github.com/Grace-Hephzibah/PPS-Assignment"> Assignments </a> 
+<p> This link will contain all the assignments and their code</p>
+
+- <a href = "https://github.com/Grace-Hephzibah/Programming-in-C"> Practice Codes </a>
+<p> This link contains all the Codes for the practice questions given during the class </p>
+
 ## For SRMites
 
 - Check the semester number and the particular subject and you can download the entire source of files coresponding to the subject.
